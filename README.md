@@ -17,3 +17,13 @@
     <img align-itens="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align-itens="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+
+##
+
+<div align="center">
+  <div align='center'>
+<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leothurm&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+  </div>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Leothurm&show_icons=true&theme=highcontrast">
+
+ <div align="left">
