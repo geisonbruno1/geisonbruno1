@@ -9,7 +9,7 @@
 
 ##
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geisonbrurno1&theme=vue-dark&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geisonbrurno1&theme=vue-dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ##
 
