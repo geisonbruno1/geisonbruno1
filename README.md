@@ -1,25 +1,54 @@
-## Olá! Bem vindo(a) ao meu perfil! 
+## About
+Nice to meet you, welcome.
 
-
-<div style="display: inline-block">
-    <img align-itens="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align-itens="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align-itens="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+## Dashboard (What i'm doing here on Github)
+<div align="center">
+      <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=eliezerjg&rank_icon=github&theme=radical&hide_border=true"/>
+      <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezerjg&theme=radical&hide_border=true"/>
+       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerjg&hide_progress=true&theme=radical&hide_border=true"/>
 </div>
 
-##
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geisonbrurno1&theme=vue-dark&locale=pt_BR)](https://git.io/streak-stats)
-
-##
-
-  <a href = "geisonbruno0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geison-bruno-ab4079224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ##
+## Follow or Contact me on:
+<div>  
+   <a href="https://www.linkedin.com/in/geison-bruno-ab4079224" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  height="36px" alt="Linkedin">
+  </a> 
+   
   
+  <a href="mailto:geisonbruno0@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"  height="36px"  target="_blank" alt="E-Mail">
+  </a> 
 
+  <a href="g_bruno" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"  height="36px"  target="_blank" alt="Discord">
+  </a> 
+  
+    
+</div>
 
-##
+  
+  ## Have some experience with
+  
+ 
+<div >  
 
+ 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="36px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="36px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36px"   />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36px"   />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="36px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="36px"   />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36px"   />
+          
+          
+
+ 
+   
+
+    
+</div>
