@@ -1,4 +1,4 @@
-## About
+## About :)
 Nice to meet you, welcome.
 
 ## Dashboard (What i'm doing here on Github)
@@ -41,6 +41,8 @@ Nice to meet you, welcome.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="36px"   />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36px"   />
+<img src="https://maven.apache.org/images/maven-logo-white-on-black.png" height="36px" />
+
           
           
 
