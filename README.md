@@ -3,9 +3,9 @@ Nice to meet you, welcome.
 
 ## Dashboard (What i'm doing here on Github)
 <div align="left">
- <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=geisonbruno1&rank_icon=github&theme=radical&hide_border=true"/>
+<img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=geisonbruno1&rank_icon=github&theme=radical&hide_border=true"/>
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=geisonbruno1&theme=radical&hide_border=true"/>
-       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?
+       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisonbruno1&hide_progress=true&theme=radical&hide_border=true"/>
 </div>
 
   
