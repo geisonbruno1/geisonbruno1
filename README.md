@@ -6,7 +6,6 @@ Nice to meet you, welcome.
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api?username=geisonbruno1&rank_icon=github&theme=radical&hide_border=true"/>
       <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=geisonbruno1&theme=radical&hide_border=true"/>
        <img  style="width: 30% !important; height: 100px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
 username=geisonbruno1&hide_progress=true&theme=radical&hide_border=true"/>
 </div>
 
